@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center">
-<p>
+<p align="left">
 I am a curious, positive, and hopeful person about a more dignified future for all. Interested in ways to change the world with technology.💜
 </p>
 <ul align="left">
@@ -28,7 +28,7 @@ I am a curious, positive, and hopeful person about a more dignified future for a
   Contact
 </h2>
 
-<div align="left">
+<div align="center">
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
