@@ -10,7 +10,7 @@ I am a curious, positive, and hopeful person about a more dignified future for a
 </p>
 <ul align="left">
   <li>
-      🌎 I'm a 29 years old brazilian developer from São Paulo. With a degree in International Relations, I bring a global perspective and analytical skills to the table. 
+      🌎 I'm a 30 years old brazilian developer from São Paulo. With a degree in International Relations, I bring a global perspective and analytical skills to the table. 
   </li>
   <li>
       😎 I solidified my intention to transition into the tech field with a certification in Statistics, where I strengthened my data analysis capabilities. 
