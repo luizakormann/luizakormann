@@ -6,7 +6,7 @@
 
 <div align="center">
 <p align="left">
-I am a curious, positive, and hopeful person about a more dignified future for all. Interested in ways to change the world with technology.💜
+I am a curious, positive, and hopeful person on a more dignified future for all. Interested in ways to change the world with technology.💜
 </p>
 <ul align="left">
   <li>
