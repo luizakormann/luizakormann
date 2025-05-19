@@ -57,6 +57,10 @@ I am a curious, positive, and hopeful person on a more dignified future for all.
   Stats
 </h2>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizakormann&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&theme="/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakormann&layout=compact&theme="/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizakormann&show_icons=true&theme=default" alt="Luiza's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizakormann&layout=compact&theme=default" alt="Most Used Languages"/>
+  </a>
 </div>
