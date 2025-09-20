@@ -16,10 +16,13 @@ I am a curious, positive, and hopeful person! Interested in ways to change the w
       😎 I solidified my intention to transition into the tech field with a certification in Statistics, where I strengthened my data analysis capabilities. 
   </li>
   <li>
+    🤓 Proud to be a Cadet at @42sp
+  </li>
+  <li>
       🚀 I am excited to apply my adaptability, passion for continuous learning, and interpersonal skills in this innovative and stimulating environment.
   </li>
   <li>
-    🍃 When I'm not coding find myself with hiking, at the movies, reading and/or enjoying life with my loved ones.
+    🍃 When I'm not coding oyu can find me: hiking, at the movies, reading and/or enjoying life with my loved ones.
   </li>
 </ul>
 </div>
