@@ -60,6 +60,6 @@ I am a curious, positive, and hopeful person! Interested in ways to change the w
   Stats
 </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrinafn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabrinafn&theme=radical" alt="Streak Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizakormann&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizakormann&theme=radical" alt="Streak Stats" width="420" />
 </div>
