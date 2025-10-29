@@ -32,10 +32,10 @@ I am a curious, positive, and hopeful person! Interested in ways to change the w
 </h2>
 <div align="center">
   <a href="mailto:luiza.kormann@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-193549?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/luizakormann/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -43,9 +43,9 @@ I am a curious, positive, and hopeful person! Interested in ways to change the w
   Technologies
 </h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=light" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -62,6 +62,6 @@ I am a curious, positive, and hopeful person! Interested in ways to change the w
   Stats
 </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizakormann&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs?username=luizakormann&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Top Languages" width="300" />
   <img src="https://streak-stats.demolab.com/?user=luizakormann&theme=cobalt" alt="Streak Stats" width="420" />
 </div>
